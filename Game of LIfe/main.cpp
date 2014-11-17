@@ -1,13 +1,10 @@
-#include "gameoflife.h"
-
 #include <iostream>
+#include "gameoflife.h"
+	
 using namespace std;
-
-
-
 
 int main()
 {	
 	GameOfLife a;
-	a.playGame();
+	a.runSimulation();
 }

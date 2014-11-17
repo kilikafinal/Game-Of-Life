@@ -33,7 +33,7 @@ private :
 	
 public :
 	void test();
-	void playGame();
+	void runSimulation();
 	GameOfLife();
 };
 
